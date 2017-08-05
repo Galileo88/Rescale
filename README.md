@@ -23,8 +23,9 @@ Due to so many people asking why other scaling "mods" don't work properly and fo
 * **Kronometer**
   * Automatically changes format of in game date and time when kronometer is installed. 
 
-* **All planet packs** _(will make planet pack specific changes upon request from pack devs)_
+* **MOST planet packs** _(will make planet pack specific changes upon request from pack devs)_
   * If the pack adds a new sun or renames the sun in stock, the name in the cfg will need to be changed to match or added to the cfg. 
+  * AI Revived cause SD to wig out for some reason, so this pack is no longer supported.
 
 
 
