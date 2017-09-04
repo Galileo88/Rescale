@@ -2,7 +2,7 @@
 
 **This is the most complete set of Sigma Dimensions configs available on the KSP forum.**
 
-Due to so many people asking why other scaling "mods" don't work properly and for people that don't fully understand how to write their own cfgs, I decided to throw together some cfgs that I use in GPP, and tweaked them to work with stock and all planet packs. 
+Due to so many people asking why other scaling "mods" don't work properly and for people that don't fully understand how to write their own cfgs, I decided to throw together some cfgs that I use in GPP, and tweaked them to work with stock most planet packs. 
 
 **_REQUIRES:_**
 **KOPERNICUS AND SIGMA DIMENSIONS** 
